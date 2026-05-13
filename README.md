@@ -87,7 +87,7 @@ Production-ready ML API built with FastAPI and Docker for real-time inference de
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/pavanrajmekala4510
-- Email: pavanraj@myjobsmail.com
+- Email: pavanraj@myjobsmail.com & pavanrajmekala45@gmail.com
 
 ---
 
