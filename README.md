@@ -46,27 +46,6 @@ RAG-based enterprise assistant enabling contextual Q&A over internal documents u
 
 ---
 
-### AI Resume Analyzer
-AI-powered resume analysis system that compares resumes against job descriptions and provides ATS optimization suggestions.
-
-**Tech Used:** Python, NLP, Streamlit, Scikit-learn
-
----
-
-### Fraud Detection Intelligence Pipeline
-Machine learning workflow for identifying behavioral fraud patterns using transformer models and scalable data pipelines.
-
-**Tech Used:** PyTorch, Kafka, PostgreSQL, MLflow
-
----
-
-### ML Prediction API
-Production-ready ML API built with FastAPI and Docker for real-time inference deployment.
-
-**Tech Used:** FastAPI, Docker, Scikit-learn, AWS
-
----
-
 ## Currently Exploring
 
 - Agentic AI Systems
